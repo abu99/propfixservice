@@ -1,0 +1,15 @@
+com\propfix\user\UserRepository.class
+com\propfix\contractor\Contractor.class
+com\propfix\user\User.class
+com\propfix\tenant\TenantRepository.class
+com\propfix\faultlog\FaultLog.class
+com\propfix\jobtype\JobType.class
+com\propfix\faultlog\FaultLogRepository.class
+com\propfix\core\DatabaseLoader.class
+com\propfix\contractor\ContractorJobRepository.class
+com\propfix\contractor\ContractorJob.class
+com\propfix\PropfixApplication.class
+com\propfix\contractor\ContractorRepository.class
+com\propfix\jobtype\JobTypeRepository.class
+com\propfix\tenant\Tenant.class
+com\propfix\ServletInitializer.class
